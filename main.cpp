@@ -5,6 +5,7 @@
 #include <fstream>
 #include <sstream>
 #include <cctype>
+#include <unordered_map>
 
 std::string s_zodis(const std::string& zodis) {
     std::string result;
@@ -16,27 +17,57 @@ std::string s_zodis(const std::string& zodis) {
     return result;
 }
 
-int main() {
+void pasikartojantys(const std::string& file) {
+    std::ifstream input(file);
+    if (!input) {
+        std::cerr << "Klaida: Nepavyko atidaryti '" << file << "'\n";
+        return;
+    }
 
     std::ofstream rf("rez/svarus_zodziai.txt");
-    std::ifstream df("duom.txt");
-    if (!df) {
-        std::cerr << "Nepavyko atidaryti failo 'duom.txt'" << std::endl;
-        return 1;
+    if (!rf) {
+        std::cerr << "Klaida: Nepavyko sukurti 'rez/svarus_zodziai.txt'\n";
+        return;
     }
-    std::string eil;
 
-    while (std::getline(df, eil)) {
-        std::istringstream iss(eil);
-        std::string zodzis;
-        while (iss >> zodzis) {
-            std::string svarus_zodis = s_zodis(zodzis);
-            if (!svarus_zodis.empty()) {
-                rf << svarus_zodis << " ";
-            }
+    std::unordered_map<std::string, int> word_count;
+    std::string word;
+
+    std::string line;
+while (std::getline(input, line)) {
+    std::istringstream iss(line);
+    std::string word;
+
+    while (iss >> word) {
+        std::string svarus_z = s_zodis(word);
+        if (!svarus_z.empty()) {
+            word_count[svarus_z]++;
+            rf << svarus_z << " ";
         }
-        rf<< std::endl;
-        
     }
 
+    rf << "\n";
+}
+    std::cout << "Zodziai isvalyti ir isvesti i 'rez/svarus_zodziai.txt'\n";
+    input.close();
+    rf.close();
+
+    std::ofstream output("rez/pasikartojantys.txt");
+    if (!output) {
+        std::cerr << "Klaida: Nepavyko sukurti 'rez/pasikartojantys.txt'\n";
+        return;
+    }
+
+    for (const auto& [word, count] : word_count) {
+        if (count > 1) {
+            output << word << ": " << count << "\n";
+        }
+    }
+    std::cout << "Rezultatai isvesti i 'rez/pasikartojantys.txt'\n";
+    output.close();
+}
+
+int main() {
+    pasikartojantys("duom.txt");
+    return 0;
 }
