@@ -1,3 +1,5 @@
+senamiesio: 2
+kopija: 2
 interaktyvi: 2
 11th: 2
 encyclopedia: 3
@@ -18,6 +20,7 @@ darbo: 2
 mokymo: 7
 profesinio: 3
 mikalojaus: 2
+wayback: 2
 nacionalin: 2
 mokykla: 11
 auktosios: 2
@@ -66,6 +69,7 @@ itrinkite: 2
 informacij: 2
 atnaujinkite: 2
 jeigu: 2
+projekto: 2
 pasenusi: 2
 informacijos: 2
 iame: 2
@@ -75,6 +79,7 @@ konstantino: 2
 aikt: 14
 rotus: 7
 gatv: 3
+uostas: 2
 32: 2
 svarbiausi: 2
 motinos: 3
@@ -133,10 +138,12 @@ parke: 2
 unesco: 3
 kalvynas: 2
 1941: 2
+pastat: 2
 irmn: 3
 tiltas: 27
 keletas: 2
 arena: 4
+machine: 2
 krepinio: 2
 mik: 2
 objektai: 2
@@ -160,6 +167,7 @@ eerai: 2
 u: 2
 telko: 4
 antavili: 2
+archyvuota: 2
 372: 3
 mikas: 3
 praneim: 2
@@ -169,7 +177,7 @@ buvo: 13
 17: 2
 t: 3
 lazdyn: 3
-oro: 2
+oro: 3
 28: 2
 televizijos: 3
 teritorijoje: 3
@@ -223,17 +231,18 @@ daugiausia: 2
 variantas: 2
 teritorijos: 2
 6: 2
-apie: 5
+apie: 6
 kalboje: 4
 mergels: 4
 eer: 3
-su: 12
+su: 14
 emutin: 2
 sigaljo: 2
 prezidentra: 2
 kr: 2
 susiformavusi: 2
 miestas: 5
+centro: 2
 2023: 3
 kurtos: 2
 taiau: 2
@@ -272,11 +281,12 @@ atodanga: 3
 usienio: 3
 viena: 2
 pramon: 2
+aukiausi: 2
 sapieg: 2
 kultra: 2
 m: 84
 ozas: 3
-ir: 90
+ir: 91
 vilnius: 16
 kt: 5
 yra: 39
@@ -292,7 +302,7 @@ transporto: 3
 pagal: 7
 dar: 4
 apskrities: 2
-i: 8
+i: 10
 but: 2
 seniausi: 2
 up: 5
@@ -371,6 +381,7 @@ staigos: 3
 tik: 5
 leidiasi: 2
 the: 3
+archiveorg: 2
 pili: 2
 banyia: 16
 arba: 2
@@ -418,7 +429,7 @@ kunigaiktis: 3
 met: 2
 saugomos: 2
 amiaus: 3
-miesto: 27
+miesto: 30
 tauro: 2
 pakraiais: 2
 centru: 2
@@ -457,9 +468,10 @@ intakas: 3
 ekins: 3
 kultros: 4
 vid: 3
-vilni: 12
+vilni: 13
 biblioteka: 5
 vardo: 8
+emlapis: 6
 metu: 2
 um: 5
 armija: 2
@@ -528,7 +540,7 @@ eurreikalingas: 2
 namai: 3
 trij: 4
 106: 2
-vilniaus: 91
+vilniaus: 101
 2018: 3
 nuo: 18
 23: 2

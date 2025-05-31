@@ -7,6 +7,8 @@
 #include <cctype>
 #include <unordered_map>
 #include <set>
+#include <regex>
+
 
 std::string s_zodis(const std::string& zodis) {
     std::string result;
@@ -116,8 +118,44 @@ void cross_reference(const std::string& failas) {
     std::cout << "Cross-reference lentelė sukurta: rez/crossref.txt\n";
 }
 
+void find_url(const std::string& file)
+{
+    std::ifstream input(file);
+    if (!input) {
+        std::cerr << "Klaida: Nepavyko atidaryti '" << file << "'\n";
+        return;
+    }
+    std::ofstream output("rez/url.txt");
+    if (!output) {
+        std::cerr << "Klaida: Nepavyko sukurti 'rez/url.txt'\n";
+        return;
+    }
+     std::regex url_regex(R"((https?://[^\s]+|www\.[^\s]+|\b[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b))");
+
+    std::string line;
+    std::set<std::string> found_urls;
+
+    while (std::getline(input, line)) {
+        auto begin = std::sregex_iterator(line.begin(), line.end(), url_regex);
+        auto end = std::sregex_iterator();
+
+        for (auto it = begin; it != end; ++it) {
+            found_urls.insert(it->str());
+        }
+    }
+
+    for (const auto& url : found_urls) {
+        output << url << "\n";
+    }
+
+    input.close();
+    output.close();
+
+    std::cout << "Rezultatai pateikti rez/url.txt'\n";
+}
 int main() {
     pasikartojantys("duom.txt");
     cross_reference("rez/svarus_zodziai.txt");
+    find_url("duom.txt");
     return 0;
 }
