@@ -6,6 +6,7 @@
 #include <sstream>
 #include <cctype>
 #include <unordered_map>
+#include <set>
 
 std::string s_zodis(const std::string& zodis) {
     std::string result;
@@ -67,7 +68,56 @@ while (std::getline(input, line)) {
     output.close();
 }
 
+void cross_reference(const std::string& failas) {
+    std::ifstream input(failas);
+    if (!input) {
+        std::cerr << "Klaida: Nepavyko atidaryti '" << failas << "'\n";
+        return;
+    }
+
+    std::unordered_map<std::string, std::set<int>> word_lines;
+    std::unordered_map<std::string, int> word_count;
+    std::string line;
+    int line_number = 0;
+
+    while (std::getline(input, line)) {
+        ++line_number;
+        std::istringstream iss(line);
+        std::string word;
+
+        while (iss >> word) {
+            std::string svarus = s_zodis(word);
+            if (!svarus.empty()) {
+                word_lines[svarus].insert(line_number);
+                word_count[svarus]++;
+            }
+        }
+    }
+
+    input.close();
+
+    std::ofstream output("rez/crossref.txt");
+    if (!output) {
+        std::cerr << "Klaida: Nepavyko sukurti 'rez/crossref.txt'\n";
+        return;
+    }
+
+    for (const auto& [word, lines] : word_lines) {
+        if (word_count[word] > 1) {
+            output << word << ": ";
+            for (int line : lines) {
+                output << line << " ";
+            }
+            output << "\n";
+        }
+    }
+
+    output.close();
+    std::cout << "Cross-reference lentelė sukurta: rez/crossref.txt\n";
+}
+
 int main() {
     pasikartojantys("duom.txt");
+    cross_reference("rez/svarus_zodziai.txt");
     return 0;
 }

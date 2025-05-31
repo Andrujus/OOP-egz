@@ -1,0 +1,553 @@
+interaktyvi: 392 393 
+11th: 392 393 
+encyclopedia: 392 393 
+britannica: 391 392 393 
+or: 391 393 
+baseinas: 382 
+siemens: 382 384 
+algirio: 382 386 
+based: 392 393 
+evangelik: 380 
+apatal: 365 369 
+dievo: 363 377 380 
+jas: 361 380 
+of: 342 392 
+technologij: 337 338 341 
+rengimo: 331 336 
+darbo: 330 332 
+mokymo: 327 330 332 337 338 343 344 
+profesinio: 327 336 337 
+mikalojaus: 319 370 
+nacionalin: 319 346 
+mokykla: 312 319 325 329 333 334 335 339 340 341 342 
+auktosios: 308 314 
+akademija: 303 304 
+paslaug: 334 335 336 
+vadinamas: 295 353 
+alyse: 289 377 
+didiausi: 289 377 
+kapins: 282 283 377 
+verslo: 289 312 333 334 336 337 339 341 
+ras: 282 283 
+katedra: 380 
+jono: 270 373 
+dvasios: 270 368 380 
+staiatiki: 270 380 
+marijos: 270 371 375 
+koplyia: 270 375 
+vart: 270 375 
+baroko: 267 
+kazimiero: 267 313 
+stiliumi: 267 380 
+matomi: 262 293 
+darbuotoj: 328 336 
+rmai: 262 293 
+r: 361 380 
+arkikatedra: 262 374 
+pilis: 253 255 
+banyi: 252 361 
+onos: 252 360 372 
+angl: 391 392 393 
+mickeviius: 247 270 
+gyveno: 247 
+evangelikai: 240 241 
+katalikai: 237 358 
+na: 235 
+165: 235 280 
+pamnkalnis: 291 292 293 
+542: 221 
+475: 221 223 
+sentikiai: 239 376 377 
+000: 219 221 
+1916: 218 262 
+msur: 216 220 
+tarp: 215 293 
+itrinkite: 213 228 
+informacij: 213 228 
+atnaujinkite: 213 228 
+jeigu: 213 228 
+pasenusi: 212 227 
+informacijos: 212 227 
+iame: 212 227 
+katedros: 206 207 258 260 261 267 
+v: 203 252 267 270 293 311 360 363 365 366 367 369 370 371 372 373 375 377 380 
+konstantino: 202 319 
+aikt: 201 206 207 208 210 258 260 261 264 266 267 286 288 289 
+rotus: 201 264 266 267 270 
+gatv: 200 209 270 
+32: 191 324 
+svarbiausi: 270 284 
+motinos: 375 377 380 
+psl: 389 390 391 
+pirmieji: 185 191 
+autobus: 185 189 193 195 
+kryiai: 262 276 
+troleibus: 185 191 
+kryi: 272 274 275 
+solaris: 183 
+vilnels: 262 
+vieasis: 181 184 185 
+troleibusai: 185 187 
+keliai: 176 179 
+stotis: 193 
+gatvs: 172 175 270 
+dails: 166 304 
+pilies: 165 256 
+psij: 146 151 153 157 
+tilt: 146 
+baltasis: 141 157 
+33: 63 217 
+rokantiki: 16 25 173 
+c: 50 52 54 62 63 64 65 66 
+erdv: 262 267 270 
+2015: 62 131 
+349: 62 
+1940: 62 66 87 
+2012: 62 187 
+500: 217 219 221 
+vilniuje: 30 56 85 91 93 95 191 267 289 
+virijo: 120 122 
+40: 87 231 361 
+kuri: 6 73 267 
+bna: 54 56 
+krituliai: 58 67 
+mm: 50 67 
+liep: 32 50 
+temperatra: 50 58 64 
+kur: 25 30 270 
+paneri: 18 30 
+skveras: 202 203 207 
+vidutin: 50 
+teress: 270 366 
+marrut: 185 189 
+2021: 43 44 222 
+vietos: 32 270 295 
+soviet: 87 91 95 
+augaviet: 32 
+ventosios: 77 368 
+300: 217 234 
+liepa: 32 
+vienuolynas: 270 
+parke: 32 276 
+21: 11 65 232 325 
+unesco: 3 97 353 
+kalvynas: 18 
+1941: 87 218 
+irmn: 145 160 332 
+tiltas: 141 143 145 150 151 152 153 154 155 156 157 158 159 160 161 162 165 166 167 168 169 170 171 172 173 174 175 
+keletas: 21 25 
+arena: 382 
+krepinio: 384 386 
+mik: 30 
+objektai: 126 249 
+parkas: 30 43 44 46 47 
+mieste: 25 73 77 112 114 118 185 
+jeruzals: 25 330 
+2016: 68 131 
+pastatai: 11 289 
+auktutin: 253 255 262 
+pus: 30 
+visa: 83 87 262 
+sostine: 91 97 
+greitieji: 185 189 
+vilnia: 6 14 21 73 
+stadionas: 382 
+vis: 30 298 364 
+bei: 25 77 103 262 270 
+eerai: 25 
+144: 62 66 
+700: 217 221 
+u: 30 270 
+telko: 25 103 
+antavili: 25 30 
+372: 66 221 
+mikas: 30 
+praneim: 213 228 
+buvo: 81 83 85 87 122 124 
+1931: 62 66 85 218 
+155: 62 223 
+17: 50 217 
+t: 6 73 389 
+lazdyn: 30 152 382 
+oro: 58 193 
+28: 64 391 
+televizijos: 95 278 279 
+teritorijoje: 21 91 103 
+vienos: 30 284 
+kitas: 21 135 146 
+2017: 120 131 222 
+pietin: 21 30 
+ant: 276 295 
+08: 68 232 
+kudirkos: 208 293 
+2014: 46 47 131 
+iki: 77 83 191 382 
+balio: 25 37 38 
+baltijos: 9 14 112 289 377 
+alia: 25 270 
+vadinti: 6 295 
+greta: 270 
+j: 6 87 118 270 
+veikia: 1 126 195 198 
+bernardin: 30 167 252 
+universiteto: 77 312 316 349 
+vyrauja: 30 
+visoje: 56 77 270 
+taip: 6 14 77 112 262 386 
+ne: 6 103 262 270 
+lotyn: 6 73 
+wilno: 6 391 393 
+o: 6 16 21 30 50 262 270 293 
+gatves: 187 191 
+kalbos: 6 73 
+juozapo: 295 311 
+2: 126 177 231 321 
+pavilni: 30 32 
+alytus: 6 73 
+vardas: 6 73 
+aikts: 267 270 
+kaip: 6 56 73 77 83 103 262 
+teka: 21 
+on: 392 393 
+xv: 6 73 
+189: 122 133 234 
+didiausias: 185 382 
+cerkv: 270 377 
+senoji: 6 73 
+vilko: 77 156 
+alyta: 6 73 
+vienas: 247 267 270 289 295 353 
+30: 52 54 
+gubernijos: 83 
+daugiausia: 14 30 
+variantas: 6 73 
+teritorijos: 11 48 
+6: 185 233 
+apie: 6 73 77 87 361 
+kalboje: 6 73 
+mergels: 270 371 375 
+eer: 25 103 
+su: 6 21 73 87 120 256 262 270 295 380 
+emutin: 262 
+sigaljo: 6 73 
+prezidentra: 1 252 
+kr: 77 247 
+susiformavusi: 23 262 
+miestas: 1 6 21 81 353 
+2023: 62 215 222 
+kurtos: 93 284 
+taiau: 23 83 
+savivaldybs: 1 48 102 103 105 116 289 348 
+trauktas: 3 97 353 
+altinis: 114 116 118 
+tarmse: 6 73 
+spariai: 93 128 
+pat: 6 14 73 77 262 386 
+karo: 81 83 91 
+paveldo: 3 97 353 
+sietinas: 6 73 
+banyios: 203 267 
+be: 21 212 
+lietuvos: 1 6 30 73 76 77 85 87 91 112 122 126 133 262 267 280 295 303 
+straipsnis: 70 100 139 184 255 261 266 275 279 283 288 292 352 
+io: 267 295 
+38: 63 232 233 
+sra: 3 97 353 
+iaurje: 14 25 30 
+sikrs: 14 289 
+ilikusi: 6 73 
+2024: 62 191 
+lietuvoje: 9 56 77 103 187 267 289 356 
+respublikos: 1 252 
+tapo: 77 87 91 97 267 
+mikai: 11 30 
+bendrinje: 6 73 
+kad: 6 270 
+vryno: 32 155 
+atstovybs: 1 
+ratas: 32 
+kaln: 30 276 295 382 
+atodanga: 14 
+1579: 1 77 232 
+usienio: 1 112 124 
+viena: 23 377 
+pramon: 93 
+sapieg: 30 32 
+kultra: 77 350 
+m: 1 3 6 16 58 77 80 81 83 85 87 90 91 95 97 114 116 118 120 124 185 187 189 191 215 216 218 220 222 236 256 262 267 280 284 289 353 377 382 384 
+ozas: 18 34 35 
+ir: 1 6 9 14 25 30 32 50 56 73 77 81 83 85 87 103 112 118 120 122 124 128 135 146 177 179 183 185 189 200 213 215 228 247 252 262 267 270 284 289 293 297 303 309 328 333 334 337 338 339 341 365 369 373 380 386 
+vilnius: 1 6 73 77 83 87 97 270 389 
+kt: 25 30 32 380 
+yra: 1 6 9 14 16 18 23 25 30 32 50 73 112 146 185 193 212 227 262 267 270 280 289 293 295 353 356 361 380 382 
+centrin: 14 348 
+688: 50 67 
+209: 63 219 
+kurioje: 262 270 
+20: 1 9 124 146 185 191 231 233 
+labai: 21 77 
+prasidjo: 91 191 
+pakratyje: 25 27 
+transporto: 135 189 334 
+pagal: 6 73 108 214 236 262 295 
+dar: 21 270 295 
+apskrities: 1 347 
+i: 6 21 118 124 191 230 251 353 
+but: 118 
+seniausi: 262 284 
+up: 6 21 40 41 
+centras: 1 83 112 328 330 331 332 336 337 338 343 344 
+d: 77 95 189 191 384 
+53: 65 67 
+gyvenamieji: 118 
+iaurs: 14 25 27 30 77 81 91 270 
+ryt: 6 21 56 73 
+staiais: 14 256 
+5: 14 179 189 
+vilnios: 6 9 40 41 73 
+eeras: 25 37 38 
+ups: 6 14 54 73 77 
+marrutai: 185 189 
+aukiausias: 280 289 
+model: 6 73 
+11: 63 65 95 120 
+europoje: 77 270 
+batoro: 85 172 
+miest: 21 77 81 85 103 
+belmonto: 30 171 
+vilna: 6 73 391 392 393 
+km: 9 14 
+kart: 77 81 
+kitur: 25 56 
+sigaljs: 6 73 
+europos: 9 97 210 286 288 289 310 353 384 
+katalik: 270 361 
+klimatas: 49 50 60 
+transportas: 181 184 185 
+56: 67 217 
+sudaro: 11 14 
+a: 6 48 72 73 77 81 262 270 353 377 
+santakoje: 9 262 
+boktas: 262 278 279 289 
+dalis: 14 25 81 120 212 227 295 
+mln: 116 118 
+auktum: 14 
+forma: 6 73 
+1994: 3 62 97 353 
+atsiveria: 14 262 
+parko: 32 153 382 
+121: 63 65 
+632: 132 235 
+garin: 18 150 
+padaryta: 6 73 
+aukiausia: 62 63 
+ekonomika: 93 107 
+73: 65 67 
+1990: 62 95 
+emiausia: 16 65 66 
+valdia: 83 105 
+to: 21 118 
+per: 30 87 139 146 148 163 
+sentiki: 377 
+vyrika: 6 
+valdios: 1 112 
+jis: 91 112 
+sostin: 1 83 85 
+pakratys: 14 30 
+ries: 14 25 
+priklauso: 103 276 377 
+1964: 66 389 
+gyventoj: 81 87 214 229 
+14: 95 326 
+ties: 14 23 
+vidurio: 122 270 
+pagrindinis: 30 70 100 139 184 255 261 266 275 279 283 288 292 352 
+didysis: 76 77 
+1939: 87 218 
+senamiestis: 3 97 351 352 
+nauj: 91 191 
+kurios: 14 77 267 
+staigos: 135 297 327 
+tik: 23 262 270 295 
+leidiasi: 14 
+the: 392 393 
+pili: 32 276 
+banyia: 267 270 360 363 364 365 366 367 368 369 370 371 372 373 380 
+arba: 118 295 
+ios: 262 270 
+prie: 14 25 95 148 163 203 270 280 
+plyti: 14 27 
+karalius: 77 
+dl: 14 112 270 
+atnaujinti: 212 227 
+centre: 267 293 
+18: 63 103 122 183 322 
+kiti: 18 126 230 244 284 
+655: 232 237 
+kyla: 14 
+128: 64 219 
+41: 64 234 
+01: 64 66 242 243 
+69: 64 65 231 
+formos: 6 73 
+bendriniu: 6 73 
+tvenkinys: 25 
+179: 64 219 
+pats: 6 77 
+67: 64 65 
+kalno: 256 276 295 
+35: 65 66 235 
+inoma: 6 73 
+48: 66 67 235 
+vakar: 77 122 
+358: 66 114 
+1956: 66 185 
+du: 103 120 
+37: 67 114 
+42: 67 231 
+46: 67 217 
+66: 50 64 
+xix: 72 377 
+panorama: 72 90 
+pavadinimas: 73 295 
+sudar: 116 124 
+sostins: 112 122 191 
+lietuvi: 73 389 
+istorija: 69 70 262 
+kunigaiktis: 76 77 
+met: 76 81 
+saugomos: 32 48 
+amiaus: 73 77 
+miesto: 1 6 11 14 16 21 30 48 73 77 81 100 103 105 111 128 249 262 267 289 348 
+tauro: 293 295 
+pakraiais: 14 21 
+centru: 77 
+sukurta: 77 122 267 
+rusijos: 81 83 
+geleinio: 77 156 
+legenda: 77 295 
+12: 64 118 183 187 235 
+22: 77 191 
+ia: 270 284 289 361 380 
+verki: 25 30 32 
+laikotarpio: 77 124 
+pradioje: 77 114 187 
+1911: 392 393 
+edition: 391 392 393 
+paminklas: 272 274 275 276 353 
+jos: 77 267 295 
+rytin: 14 25 30 
+pasiymi: 112 256 
+upvardis: 6 73 
+2011: 220 236 384 
+lenkijos: 77 
+pirm: 77 81 
+1769: 215 216 
+atsirado: 189 
+gedimino: 77 256 262 305 
+vilniui: 76 77 
+kovo: 77 95 191 
+adomas: 247 270 
+universitet: 77 83 
+universitetas: 77 85 305 307 309 310 313 
+mokyklos: 298 308 314 317 321 323 324 
+gyventojai: 133 211 295 
+yd: 77 87 270 380 
+intakas: 14 21 
+ekins: 18 34 35 
+kultros: 77 97 247 
+vid: 63 64 65 
+vilni: 77 81 85 87 91 95 103 139 146 163 262 
+biblioteka: 77 346 347 348 349 
+vardo: 6 73 
+metu: 81 
+um: 81 85 87 91 95 
+armija: 81 87 
+200: 134 217 219 
+nors: 81 295 
+rusai: 81 230 
+13: 81 146 
+mikalojus: 247 284 
+bet: 81 103 262 
+bent: 212 227 
+stepono: 85 172 
+ner: 21 146 148 
+kurie: 95 262 
+xviii: 81 262 
+vokiei: 87 200 
+lietuva: 83 87 95 389 
+simonas: 247 
+vystsi: 83 93 
+1991: 95 220 
+trys: 262 270 276 
+fabrikas: 93 
+veik: 85 114 
+pilaits: 25 30 
+centr: 270 289 
+geleinkelio: 91 173 193 334 
+auktumos: 14 
+sjungos: 87 95 
+odiu: 6 73 
+lietuv: 87 91 
+rinkos: 330 332 
+bvp: 112 120 122 
+sovietai: 91 95 
+mons: 114 185 246 
+nam: 87 91 204 
+1944: 90 91 218 
+10: 66 239 244 
+link: 14 270 
+auros: 269 270 375 
+main: 93 
+srov: 148 163 
+gamyklos: 93 
+liubarto: 143 154 
+pastatyta: 93 377 
+vyko: 95 384 
+straipsnyje: 212 227 
+apgyvendinimo: 130 135 
+sausio: 95 
+vilnis: 6 73 187 
+moni: 95 112 
+po: 81 83 91 
+savivaldyb: 99 100 103 
+ar: 108 295 
+jo: 108 262 293 295 
+daug: 32 112 
+daugiau: 118 120 361 380 
+galite: 109 213 228 
+visi: 112 134 
+vienam: 112 120 122 124 
+2020: 114 382 
+gyventojui: 112 120 122 124 
+tkst: 114 
+auga: 30 128 
+dirbo: 114 247 
+2019: 116 118 131 
+eurreikalingas: 116 118 
+namai: 118 
+trij: 118 272 274 275 
+106: 63 65 
+vilniaus: 1 3 6 27 30 60 68 70 73 77 81 83 85 87 90 91 93 97 100 103 105 116 120 128 130 183 184 185 191 193 209 214 229 255 256 262 267 270 276 279 289 293 298 302 304 305 306 311 312 316 320 330 331 332 333 334 335 336 337 338 339 341 347 348 349 352 374 377 380 
+2018: 120 124 131 
+nuo: 1 6 9 58 73 77 83 91 95 256 262 267 270 295 377 
+23: 120 356 
+duomenys: 58 68 
+400: 120 219 
+eur: 120 122 124 
+pavirius: 13 14 16 
+mlrd: 122 124 
+kit: 77 103 
+konstantinas: 247 284 
+825: 85 221 
+viso: 124 191 230 
+turizmo: 128 339 
+neries: 9 14 16 21 262 280 289 
+regiono: 77 91 122 
+1: 132 134 189 389 390 
+kitos: 314 379 380 
+iurlionis: 247 284 
+vasar: 52 87 
+tiltai: 138 148 163 
+vingio: 23 30 32 43 44 46 47 153 382 
+pasaulio: 3 97 353 
